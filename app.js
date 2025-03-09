@@ -45,5 +45,5 @@ function sortearAmigo() {
     let amigoSorteado = amigos[indiceAleatorio];
 
     // Exibe o nome sorteado na página
-    document.getElementById("resultado").innerHTML = `🎉 O amigo sorteado foi: <strong>${amigoSorteado}</strong>!`;
+    document.getElementById("resultado").innerHTML = `🎉 Parabens o ganhador foi: <strong>${amigoSorteado}</strong>!`;
 }
