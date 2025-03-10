@@ -1,5 +1,5 @@
 :root {
-    --color-primary: #180070;
+    --color-primary: #51cdd1;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
@@ -58,7 +58,7 @@ body {
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
-    color: var(--color-white);
+    color: #000
 }
 
 .section-title {
@@ -151,6 +151,7 @@ ul {
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 20px;
+    margin-bottom: 10px
 }
 
 .button-draw img {
@@ -159,4 +160,30 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+/* Botão de reiniciar jogo */
+.button-att {
+    display: flex;
+    align-items: center;
+    width: 45%;
+    padding: 8px 2px;
+    color: var(--color-white);
+    background-color: var(--color-button);
+    font-size: 20px;   
+    margin-bottom: 10px
+    }
+
+.button-att img {
+    margin-right: 30px;
+}
+
+.button-att:hover {
+    background-color: var(--color-button-hover);
+}
+
+.button-container2 img {
+    width: 13%;
+    border-radius: 10px;
+    margin-left: 40px;
 }

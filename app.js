@@ -47,3 +47,8 @@ function sortearAmigo() {
     // Exibe o nome sorteado na página
     document.getElementById("resultado").innerHTML = `🎉 Parabens o ganhador foi: <strong>${amigoSorteado}</strong>!`;
 }
+
+// Botão para reiniciar o jogo
+document.getElementById("reiniciar").addEventListener("click", function() {
+    location.reload();
+});
