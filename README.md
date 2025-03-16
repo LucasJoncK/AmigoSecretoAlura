@@ -5,11 +5,24 @@ Práitica de lógica de programação através deste desafio de um aplicativo de
 ## 🚀 Funcionalidades
 
 - Sorteio de amigo secreto
-- Função para garantir que a pessoa não retire seu próprio nome como amigo secreto
-- Função otimizada de embaralhamento da lista de pessoas
+- Torna visível todos os nomes em uma lista
+- Ao sortear um amigo, apenas um será o ganhador
 
 ## 🛠 Tecnologia aplicada
 
-Javascript, HTML, CSS...
+- Javascript
+- HTML
+- CSS
 
-## 
+## ⚠️ Observações 
+
+- Caso tenham dois amigos com o mesmo nome, utilize também o sobrenome para não ocorrer dúvidas do ganhador
+- O Botão "Atualizar" reiniciará totalmente a página
+
+## 💯 Dicas 
+
+- Para tornar o jogo mais divertido, aconselhamos colocar desáfios para cada sorteado
+- Lembre-se, quanto mais amigos na brincadeira mais divertido ficará
+
+# Desenvolvido 
+👩🏽‍💻 LucasJoncK Dev FrontEnd 👩🏽‍💻
