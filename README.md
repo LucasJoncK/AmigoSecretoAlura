@@ -10,6 +10,8 @@ Práitica de lógica de programação através deste desafio de um aplicativo de
 
 ## 🛠 Tecnologia aplicada
 
+- Utilizado Visual Studio Code
+
 - Javascript
 - HTML
 - CSS
